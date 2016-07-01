@@ -21,11 +21,5 @@ namespace GitEx1
         {
             textBox1.Text = "Hello World!";
         }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            var f = new Form2();
-            f.Show();
-        }
     }
 }
